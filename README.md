@@ -47,5 +47,6 @@ From there you you can list all the files and folders within the cloned reposito
 
 
 
+![Screenshot 2023-11-27 164057](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/cf3f4d7c-8a75-4bb7-8604-61d965f789d4)
 
 ![Screenshot 2023-11-27 134859](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/dd141416-aab3-48a7-b1fd-a59c6974882d)
