@@ -1,4 +1,4 @@
-# DCIT_205_IA
+![tutorial](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/5aca8b06-b639-49bf-b6fe-5dbd95e302e8)# DCIT_205_IA
  My ID : 11298637        
  Name: Kingsley Martey Amenuvie
  
@@ -46,7 +46,9 @@ From there you you can list all the files and folders within the cloned reposito
 
 ![Screenshot 2023-11-27 134000](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/de4eb246-8bab-47a1-bc38-431cd41dadf5)
 
+![tutorial](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/b1cd4318-6e81-40d2-bf9a-402fcf39b848)
 
+![emo](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/0db8d5b2-4f8b-4ac1-87e2-f81b7449f9d9)
 
 ![Screenshot 2023-11-27 134734](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/bd9baf14-7742-47ee-91a9-34743c87b536)
 
@@ -60,4 +62,5 @@ From there you you can list all the files and folders within the cloned reposito
 
 # what i have learnt thus far
 Embarking on this project has been of much benefit to me in so many aspect such that it has created the environment for me where i had  to do some  sort of research  both written and visual ; google and youtube respectively. Also working on this project has inculcated some sort of enthusiasm as far as website development is concerned. In a nut shell , i look forward to again embark on other project as far as upgrading myself in the area of web development for the job market is concerned.
+
 
