@@ -1,4 +1,3 @@
-![tutorial](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/5aca8b06-b639-49bf-b6fe-5dbd95e302e8)# DCIT_205_IA
  My ID : 11298637        
  Name: Kingsley Martey Amenuvie
  
@@ -21,6 +20,7 @@ From there you you can list all the files and folders within the cloned reposito
 ![Screenshot 2023-11-27 134532](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/e908710a-e20b-46f8-8acc-e7eb6cff1bd8)
 
 
+![tutorial](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/5aca8b06-b639-49bf-b6fe-5dbd95e302e8)# DCIT_205_IA
 
 
 ![under_grad_main](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/96c07c3a-677b-44a9-ad82-083c88615db1)
