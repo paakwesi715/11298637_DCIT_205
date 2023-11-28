@@ -27,8 +27,6 @@ From there you you can list all the files and folders within the cloned reposito
 
 
 
-
-
 ![Screenshot 2023-11-27 134417](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/44b1ec3b-6162-48a2-bb1a-be5ca455a2a4)
 
 
