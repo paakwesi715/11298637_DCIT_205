@@ -45,8 +45,13 @@ From there you you can list all the files and folders within the cloned reposito
 
 ![Screenshot 2023-11-27 134734](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/bd9baf14-7742-47ee-91a9-34743c87b536)
 
+![Capture](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/ab7b9968-b619-468e-be71-666fabee5d2c)
 
 
 ![Screenshot 2023-11-27 164057](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/cf3f4d7c-8a75-4bb7-8604-61d965f789d4)
 
 ![Screenshot 2023-11-27 134859](https://github.com/paakwesi715/11298637_DCIT_205/assets/135952966/dd141416-aab3-48a7-b1fd-a59c6974882d)
+
+# what i have learnt thus far
+Embarking on this project has been of much benefit to me in so many aspect such that it has created the environment for me where i had  to do some  sort of research  both written and visual ; google and youtube respectively. Also working on this project has inculcated some sort of enthusiasm as far as website development is concerned. In a nut shell , i look forward to again embark on other project as far as upgrading myself in the area of web development for the job market is concerned.
+
